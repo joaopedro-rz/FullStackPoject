@@ -1,4 +1,4 @@
-# NewsFinder – Projeto 1 (Frontend)
+# NewsFinder – Projeto  (Frontend)
 
 Aplicação SPA em React + Vite que busca notícias da NewsAPI com filtros, validação e estado global via Context API + useReducer.
 
